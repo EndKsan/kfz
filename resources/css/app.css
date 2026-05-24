@@ -1,0 +1,9 @@
+/* resources/css/app.css */
+
+
+@import "./layout.css";
+
+/* seu CSS extra pode ficar aqui também */
+body {
+  margin: 0;
+}
