@@ -43,12 +43,12 @@
 
 	<main>Main</main>
 
-	
+	<!-- Agrupa informações e links relacionado ao conteúdo principal. -->
 	<aside>Aside</aside>
 
 	
-	<footer>EndKsan</footer>
+	<footer>Footer</footer>
 
 
-	<script type="text/javascript" src="{{ asset('js/script.js') }}"></script>
+	<script type="text/javascript" src="{{ asset('assets/js/script.js') }}"></script>
 </body>
