@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+
+
+<html lang="pt-br">
+
+
+<head>
+
+	
+	<meta charset="utf-8">
+
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	
+	<link rel="stylesheet" type="text/css" href="{{ asset('css/layout.css') }}">
+
+	<title>Layout</title>
+</head>
+
+
+<body>
+
+	
+	<header>
+		<a href="./layout.html" id="logo">Logo</a>
+
+		<button id="openMenu">&#9776;</button>
+	</header>
+
+	
+	<nav id="menu">
+
+		<button id="closeMenu">X</button>
+
+		<a href="#">Home</a>
+		<a href="#">About</a>
+		<a href="#">Products</a>
+		<a href="">Contact</a>
+	</nav>
+
+
+	<main>Main</main>
+
+	
+	<aside>Aside</aside>
+
+	
+	<footer>EndKsan</footer>
+
+
+	<script type="text/javascript" src="{{ asset('js/script.js') }}"></script>
+</body>
